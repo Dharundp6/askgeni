@@ -73,7 +73,8 @@ def main():
     st.title("AskGeni")
 
     # Load default PDF file
-    default_pdf_path = "Data\DataGeniX'24 .pdf"
+    default_pdf_path = "C:\\Users\\Dharun prasanth\\OneDrive\\Documents\\MultiPDF\\Data\\DataGeniX'24 .pdf"
+
 
     # Load PDF file
     loader = PyPDFLoader(default_pdf_path)

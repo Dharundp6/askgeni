@@ -9,7 +9,7 @@ AskGeni is a Streamlit-based application that leverages LangChain and Llama 2 to
 ## Features
 
 - 📄 **PDF Document Processing** - Automatically loads and processes PDF files
-- 💬 **Conversational Interface** - Chat-based UI for natural interactions
+- 💬 **Conversational Interface** - Chat-based UI for natural interactions 
 - 🧠 **AI-Powered Responses** - Uses Llama 2 70B model via Replicate
 - 🔍 **Vector Search** - FAISS-based similarity search for accurate context retrieval
 - 💾 **Chat History** - Maintains conversation context across questions
